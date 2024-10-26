@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "compression:item/compression_lv6_iron_sword"
+    "layer0": "compression:item/compression_lv7_iron_sword"
   }
 }
